@@ -1,5 +1,5 @@
 django-tutorial
-===============
+================
 
 This repository contains the code for the "Web Development with Python and
 Django" tutorial session run by [Mike Pirnat][mpirnat] and [David
